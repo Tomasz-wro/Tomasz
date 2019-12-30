@@ -1,0 +1,26 @@
+Jak wygląda struktura danych:
+ - czy wartości kluczy w xml są zawsze takie same?
+ - czy ten plik, który mi podesłałeś jest reprezentatywny
+
+Czy to ma być program okienkowy:
+ - okienkowy czy konsolowy?
+ - jakie mają być wprowadzane dane (pliki)
+ - jak ma wyglądać jego działanie
+
+Jak ma wyglądać formatowanie danych w plikach txt:
+ - czy tak jak teraz, czy coś bardziej zmyślego
+ - czy niektóre klucze trzeba może usunąć
+
+Zapisywanie plików:
+ - czy użytkownik ma podawać nazwy dla nowych plików
+ - czy ma podawać ścieżki dla nich (czy jakieś domyślne)
+ - czy ten xml ma być kasowany/ przenoszony może
+
+Mail:
+ (na razie patrzyłem, że u mnie na linuxie to nie jest problem, windows będę musiał jeszcze sprawdzić)
+ - czy załącznik ma być w pliku, czy w treści emaila
+ - 5. na podstawie danych z pliku txt wstawić adres mail z bazy danych- jakiej bazy danych?
+ - czy adres na jaki to ma być wysyłane jest z pola "ns2:ParticularRegistration -> ns2:SingleElement -> ns2:RecipientEmail"
+   w przykładzie (e-przewoz@centrumgaz.pl)
+
+
